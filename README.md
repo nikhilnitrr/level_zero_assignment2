@@ -4,8 +4,11 @@
 
 👉 Introduces the fundamental concepts of Programming
 
-👉 You can play this Quiz at:
+👉 Quiz application where you will be asked questions related to politics and accordingly you will score points
+
+# You can play this Quiz at:
 
 https://replit.com/@NikhilChandraka/levelzeroassignment2?embed=1&output=1
 
-!!!💖 You feedback is always welcomed , you can drop me an email at nikhilchandrakar3@gmail.com
+![image](https://user-images.githubusercontent.com/48703875/135700909-edacd595-04cc-478b-80bf-9cfc9dadbdd6.png)
+
